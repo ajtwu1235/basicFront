@@ -1,0 +1,17 @@
+body{
+    background-color: cyan;
+    text-align: center;
+}
+.brown{
+    background-color: brown;
+    display:inline-block;
+}
+
+/* id로 접근 */
+#gray {
+    background-color: gray;
+}
+
+.font-gray{
+    color:gray;
+}
