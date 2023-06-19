@@ -1,0 +1,15 @@
+table,tr,td{
+    border: 1px solid royalblue;
+    border-style: dashed;
+}
+
+tr:hover{
+    background-color: brown;
+}
+
+.box{
+    width: 30%;
+    height: 30%;
+    min-height: 10px;
+    border : 1px solid blue;
+}
